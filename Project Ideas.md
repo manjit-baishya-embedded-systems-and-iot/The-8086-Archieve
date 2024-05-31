@@ -10,7 +10,7 @@
    Monitor the stock levels of items in a warehouse and generate alerts when inventory runs low. Sensors connected to port 22H.
 
 4. **Emergency Crossing:**
-   Design a system that allows emergency padestrian crossing by changingthe traffic light. Port 23H interfaces with security card sensors.
+   Design a system that allows emergency pedestrian crossing by changing the traffic light. Port 23H interfaces with security card sensors.
 
 5. **HVAC System Control:**
    Regulate heating, ventilation, and air conditioning systems in a building based on temperature and occupancy data received at port 24H.
@@ -22,7 +22,7 @@
    Coordinate the movements of a robotic arm in manufacturing processes for precise assembly tasks. Commands are received at port 26H.
 
 8. **Home Security Surveillance:**
-   Monitor and record video footage from multiple security cameras around a property using ports 27H for camera control and 28H for data storage.
+   Check for motion detection data from multiple sensors. Check to see if there is any motion detected. Send signal to owner if so and ring alarm if user requests so.
 
 9. **Automated Garage Door:**
    Open and close a garage door automatically in response to vehicle presence or remote commands received at port 29H.
