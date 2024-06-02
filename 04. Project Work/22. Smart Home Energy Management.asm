@@ -1,2 +1,0 @@
-# **Smart Home Energy Management:**
-

@@ -1,2 +1,0 @@
-# **Smart Door Lock System:**
-

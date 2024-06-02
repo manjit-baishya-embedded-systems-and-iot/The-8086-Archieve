@@ -1,2 +1,0 @@
-# **Digital Art Installation Control:**
-

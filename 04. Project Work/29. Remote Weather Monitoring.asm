@@ -1,2 +1,0 @@
-# **Remote Weather Monitoring:**
-

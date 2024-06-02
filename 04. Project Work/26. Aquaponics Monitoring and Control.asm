@@ -1,2 +1,0 @@
-# **Aquaponics Monitoring and Control:**
-

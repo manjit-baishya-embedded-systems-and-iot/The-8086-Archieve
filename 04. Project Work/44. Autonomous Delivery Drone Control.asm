@@ -1,2 +1,0 @@
-# **Autonomous Delivery Drone Control:**
-

@@ -1,2 +1,0 @@
-# **Home Hydroponic Garden Control:**
-

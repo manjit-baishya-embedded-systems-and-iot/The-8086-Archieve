@@ -1,2 +1,0 @@
-# **Healthcare Robot Assistant Control:**
-

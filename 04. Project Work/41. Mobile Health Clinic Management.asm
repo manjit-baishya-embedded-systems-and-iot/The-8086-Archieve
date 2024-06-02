@@ -1,2 +1,0 @@
-# **Mobile Health Clinic Management:**
-

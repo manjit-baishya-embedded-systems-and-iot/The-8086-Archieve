@@ -1,4 +1,5 @@
 # **Welcome to 8086 Assembly Language Repository!** 🚀
+![header](/assets/header.png)
 
 ![8086 Assembly Language](https://img.shields.io/badge/Language-8086%20Assembly-orange)
 ![License](https://img.shields.io/badge/License-MIT-blue)

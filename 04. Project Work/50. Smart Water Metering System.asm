@@ -1,2 +1,0 @@
-# **Smart Water Metering System:**
-

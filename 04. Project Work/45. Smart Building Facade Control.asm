@@ -1,2 +1,0 @@
-# **Smart Building Facade Control:**
-

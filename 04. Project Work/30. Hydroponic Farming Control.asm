@@ -1,2 +1,0 @@
-# **Hydroponic Farming Control:**
-

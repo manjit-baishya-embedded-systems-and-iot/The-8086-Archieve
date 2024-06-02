@@ -1,2 +1,0 @@
-# **Smart Bike Sharing System:**
-

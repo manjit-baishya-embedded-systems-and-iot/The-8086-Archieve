@@ -1,2 +1,0 @@
-# **Autonomous Lawn Mower:**
-

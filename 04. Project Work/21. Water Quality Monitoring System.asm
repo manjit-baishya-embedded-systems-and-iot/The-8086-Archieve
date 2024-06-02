@@ -1,2 +1,0 @@
-# **Water Quality Monitoring System:**
-

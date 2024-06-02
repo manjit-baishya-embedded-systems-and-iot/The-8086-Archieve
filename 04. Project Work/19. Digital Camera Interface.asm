@@ -1,2 +1,0 @@
-# **Digital Camera Interface:**
-
